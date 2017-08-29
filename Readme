@@ -1,25 +1,32 @@
 Projects:
 0) Django web development process - TDD
 	https://www.youtube.com/watch?v=6zQAu23bKF8
-
+	
 1) Weather api using just JavaScript & jQuery
+	https://www.youtube.com/watch?v=53AoDB7vcbU&t=506s
 	https://www.youtube.com/watch?v=lRcx8ZqoWxQ&list=PLoN_ejT35AEiqRoSprq_XsGd3N4miib3T&index=1
+	https://www.youtube.com/watch?v=KT6Jaxl0JM4&t=1s
+	https://www.youtube.com/watch?v=eLK28VPJvCE&list=PLHdCowjFIBmLRvwkK0UNz0OA10pYI4H0g&index=1
+	https://www.youtube.com/watch?v=pxofwuWTs7c&t=49s
 
-2) Django CMS
+2) Python REST framework
+	https://www.youtube.com/watch?v=XMu0T6L2KRQ&list=PLEsfXFp6DpzTOcOVdZF-th7BS_GYGguAS
+
+3) Django CMS
 	https://www.youtube.com/watch?v=NbsRVfLCE1U
 	http://support.divio.com/academy/basic-how-to-build-a-website-and-blog-with-django-cms-60-minutes/introduction
 
-3) Ecommerce website - Python, Django:
-https://www.youtube.com/watch?v=9Wbfk16jEOk&t=246s
+4) Ecommerce website - Python, Django:
+	https://www.youtube.com/watch?v=9Wbfk16jEOk&t=246s
 
-4) Django & SQLite:
-https://www.youtube.com/watch?v=gOsTg_idF74&t=91s
+5) Django & SQLite:
+	https://www.youtube.com/watch?v=gOsTg_idF74&t=91s
 
-5)
+6)
 Develop & publish:
-https://www.youtube.com/watch?v=bRnm8f6Wavk&t=120s 
+	https://www.youtube.com/watch?v=bRnm8f6Wavk&t=120s 
 
-6) Angular, Django, Django REST & Webpack:
+7) Angular, Django, Django REST & Webpack:
 	 a) 
 		http://gregblogs.com/how-the-do-i-build-a-django-django-rest-framework-angular-1-1-x-and-webpack-project/
 
@@ -30,30 +37,30 @@ https://www.youtube.com/watch?v=bRnm8f6Wavk&t=120s
 		http://engineroom.trackmaven.com/blog/getting-started-drf-angularjs-part-4/
 		http://engineroom.trackmaven.com/blog/getting-started-drf-angularjs-part-5/
 
-7)
+8)
 Deploy to Azure, including creation of a MySQL database. 
-https://www.youtube.com/watch?v=1JUpitRI578
+	https://www.youtube.com/watch?v=1JUpitRI578
 
-8) Python projects:
-https://www.youtube.com/watch?v=XRJwIakB5Fg&index=1&list=PLQh6rb1mrE_ZBRtGtAMj1MBaoYdbUX8x9
-
-9)
-Public data hacking code:
-https://www.youtube.com/watch?v=RrPZza_vZ3w
+9) Python projects:
+	https://www.youtube.com/watch?v=XRJwIakB5Fg&index=1&list=PLQh6rb1mrE_ZBRtGtAMj1MBaoYdbUX8x9
 
 10)
+Public data hacking code:
+	https://www.youtube.com/watch?v=RrPZza_vZ3w
+
+11)
 How to write command line programs?
-https://www.youtube.com/watch?v=gR73nLbbgqY
+	https://www.youtube.com/watch?v=gR73nLbbgqY
 
 11) Django, ReactJS 
-https://www.youtube.com/watch?v=7ZnYW8szD-I
-https://www.youtube.com/watch?v=7Sa57EBdpWA
-https://www.youtube.com/watch?v=7X4fIH6lgm8
-https://www.youtube.com/watch?v=7nGmPswgE1k
-https://www.youtube.com/watch?v=trPO58x_49o
-https://www.youtube.com/watch?v=el1t2wFue40
+	https://www.youtube.com/watch?v=7ZnYW8szD-I
+	https://www.youtube.com/watch?v=7Sa57EBdpWA
+	https://www.youtube.com/watch?v=7X4fIH6lgm8
+	https://www.youtube.com/watch?v=7nGmPswgE1k
+	https://www.youtube.com/watch?v=trPO58x_49o
+	https://www.youtube.com/watch?v=el1t2wFue40
 
 12) Django class based view, middleware, caching, REST api & Model managers:
-https://www.packtpub.com/mapt/video/web_development/9781783989805
+	https://www.packtpub.com/mapt/video/web_development/9781783989805
 
 
