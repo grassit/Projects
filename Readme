@@ -3,7 +3,7 @@ Front end projects:
 >	Webtunings JavaScript:
 		https://www.youtube.com/user/webtunings/playlists
 
->	jQuery training
+>	jQuery training:
 		https://www.youtube.com/watch?v=M2hactsV0eQ
 
 > 	AJAX crash course:
@@ -24,10 +24,10 @@ Front end projects:
 
 >
 	Build A JavaScript & jQuery Movie Info App in 30 Minutes:	
-	https://www.youtube.com/watch?v=YsPqjYGauns	
+		https://www.youtube.com/watch?v=YsPqjYGauns	
 
 >
-	Google Maps JavaScript API Tutorial
+	Google Maps JavaScript API Tutorial:
 		https://www.youtube.com/watch?v=Zxf1mnP5zcw
 
 >
@@ -38,6 +38,16 @@ Front end projects:
 	About ReactJS:
 		https://facebook.github.io/react/docs/installation.html
 
+> 
+	Weather api using just JavaScript & jQuery:
+		https://www.youtube.com/watch?v=53AoDB7vcbU&t=506s
+		https://www.youtube.com/watch?v=lRcx8ZqoWxQ&list=PLoN_ejT35AEiqRoSprq_XsGd3N4miib3T&index=1
+		https://www.youtube.com/watch?v=KT6Jaxl0JM4&t=1s
+		https://www.youtube.com/watch?v=eLK28VPJvCE&list=PLHdCowjFIBmLRvwkK0UNz0OA10pYI4H0g&index=1
+		https://www.youtube.com/watch?v=pxofwuWTs7c&t=49s
+
+========================================================
+
 Full stack projects:
 
 >
@@ -45,12 +55,9 @@ Full stack projects:
 		https://www.youtube.com/watch?v=yDv5FIAeyoY
 
 >
-	Django caching:
-		https://www.youtube.com/watch?v=Bsyo_gFYiuw
-		https://www.youtube.com/watch?v=7kyc-YL34JU
-
->
 	Django project:
+	https://www.youtube.com/watch?v=KsLHt3D_jsE&list=PLEsfXFp6DpzRcd-q4vR5qAgOZUuz8041S
+	https://www.youtube.com/watch?v=yfgsklK_yFo&list=PLEsfXFp6DpzQFqfCur9CJ4QnKQTVXUsRy
 	https://www.youtube.com/watch?v=3jX5OQUnywY&list=PLEsfXFp6DpzTgDieSvwKL3CakR8XyKkBk&index=1
 
 >
@@ -63,9 +70,9 @@ Full stack projects:
 
 > 
 	Django web development process - TDD
-	http://agiledata.org/essays/tdd.html	
-	https://www.youtube.com/watch?v=6zQAu23bKF8
-	https://www.youtube.com/watch?v=vQjmz9wCjLA&t=876s
+		http://agiledata.org/essays/tdd.html	
+		https://www.youtube.com/watch?v=6zQAu23bKF8
+		https://www.youtube.com/watch?v=vQjmz9wCjLA&t=876s
 
 >
 	Django user authentication model:
@@ -79,6 +86,11 @@ Full stack projects:
 	Django CMS
 		https://www.youtube.com/watch?v=NbsRVfLCE1U
 		http://support.divio.com/academy/basic-how-to-build-a-website-and-blog-with-django-cms-60-minutes/introduction
+
+>
+	Django caching:
+		https://www.youtube.com/watch?v=Bsyo_gFYiuw
+		https://www.youtube.com/watch?v=7kyc-YL34JU
 
 > 
 	Django & SQLite:
@@ -137,11 +149,4 @@ Full stack projects:
 	Django by example:
 		https://www.packtpub.com/web-development/django-example
 
-> 
-	Weather api using just JavaScript & jQuery
-		https://www.youtube.com/watch?v=53AoDB7vcbU&t=506s
-		https://www.youtube.com/watch?v=lRcx8ZqoWxQ&list=PLoN_ejT35AEiqRoSprq_XsGd3N4miib3T&index=1
-		https://www.youtube.com/watch?v=KT6Jaxl0JM4&t=1s
-		https://www.youtube.com/watch?v=eLK28VPJvCE&list=PLHdCowjFIBmLRvwkK0UNz0OA10pYI4H0g&index=1
-		https://www.youtube.com/watch?v=pxofwuWTs7c&t=49s
 
