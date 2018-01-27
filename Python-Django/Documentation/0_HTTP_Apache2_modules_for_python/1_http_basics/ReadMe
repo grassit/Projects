@@ -1,0 +1,11 @@
+HTTP basics:
+http://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html
+http://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_StateManagement.html
+http://httpd.apache.org/docs/current/howto/auth.html
+http://httpd.apache.org/docs/current/howto/access.html
+
+
+HTTPS with SSL:
+http://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_SSL.html
+https://geekflare.com/apache-setup-ssl-certificate/
+https://httpd.apache.org/docs/2.4/ssl/ssl_howto.html

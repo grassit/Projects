@@ -1,0 +1,7 @@
+1)
+mkdir -p fsp-deployment-guide - Is this the directory used only to create ssh_keys and nothing else?
+
+2)
+~/Envs/fspdeploy - Is this the directory where your flask app resides? Because you create fabric script here. Please clarify.
+mkdir ~/Envs/
+virtualenv -p python2.7 ~/Envs/fspdeploy
